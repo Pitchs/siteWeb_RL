@@ -7,6 +7,9 @@
 			<meta name="description" content="description de la page" />
   
 			<link rel='stylesheet' href='monCSS.css' type='text/css' />
+
+			
+
  
 	<head>
 	
@@ -27,7 +30,7 @@
 		
 		
 		
-		
+<table class="tabl"><td class="alligner">		
 		<div class='container'>
 		
 		<?php
@@ -61,8 +64,22 @@
 
 ?>
 		</div>
+	</td>
+	<td >
 		<div class="contRss">
+<fieldset class="rsslib">
+<?php
+	require_once("rsslib.php");
+	$url = "http://www.scriptol.com/rss.xml";
+	echo RSS_Display($url, 15, false, true);
+?>
+</fieldset>
+
+
+
+		
 		</div>
+	</td>
 	</body>
 	
 	<footer>
