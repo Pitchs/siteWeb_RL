@@ -1,12 +1,12 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html>
 	<head>
  
-			<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+			<meta http-equiv="Content-Type" content="text/html;CHARSET=utf-8" />
 			<meta name="title" content="PorteFolio" />
 			<meta name="description" content="description de la page" />
-  
-			<link rel='stylesheet' href='monCSS.css' type='text/css' />	
+			<link rel='stylesheet' href='css\monCss.css' type='text/css' />	
+			<meta name="keywords" content="Romain Ledru, romain ledru, dévellopeurs nantes/">
 	<head>
 	
 	<body>
@@ -14,7 +14,6 @@
 				<ul id="menu">
 					<a class='nav' href="index.php?page=index">Home</a>									
 					<a class='nav' href="index.php?page=infoBts">BTS sio</a>
-					<a class='nav' href="index.php?page=parcours">Parcours</a>
 					<a class='nav' href="index.php?page=cv">CV</a>
 					<a class='nav' href="index.php?page=travaux">Travaux et réalisations</a>
 					<a class='nav' href="index.php?page=veille">Veille</a>
