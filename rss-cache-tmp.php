@@ -1,4 +1,4 @@
-﻿<ul>
+<ul>
 <li><a href="http://www.scriptol.fr/programmation/rust.php">Rust, le verlan des langages de programmation</a><br>  Conçu par Mozilla pour réaliser un nouveau navigateur, "Servo", le langage Rust disponible sur Github intéresse les programmeurs système qui y voient un successeur possible à C  dans leur domaine.</li>
 <li><a href="http://www.scriptol.fr/seo/panda-en-clair.php">Le brevet Panda en clair</a><br>Description simplifiée du brevet 8,682,892 de classement des pages, images et autres ressources, supposé pénaliser les sites de pauvre qualité, et principalement les fermes de contenu.</li>
 <li><a href="http://www.scriptol.fr/technologies/intel-nuc-D54250WYKH2-test.php">Intel NUC: montage, performances et utilisation</a><br>Le modèle D5425WYKH passé en revue, du montage à l'utilisation.</li>
@@ -14,4 +14,5 @@
 <li><a href="http://www.scriptol.fr/css/checkbox.php">Case à cocher professionnelles sans framework</a><br>Avec une feuille de style CSS et une fonction JavaScript, vos formulaires changent de look. En fait on peut le réaliser uniquement avec du code CSS et JavaScript, en utilisant l'élément de formulaire standard <button> plutôt que <checkbox>.</li>
 <li><a href="http://www.scriptol.fr/html5/formulaire.php">Tous les objets de formulaire en HTML 5</a><br>HTML 5 permet de réaliser des interfaces utilisateurs complètes grâce à un ensemble de widgets plus étendus, objets de formulaire et éléments interactifs. La prévisualisation permet de vérifier directement la compatibilité avec chaque navigateur</li>
 </ul>
+
 
