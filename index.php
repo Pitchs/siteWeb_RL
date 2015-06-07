@@ -59,13 +59,24 @@
 		<td class="pDroite">
 			<div class="contRss">
 			
-				
-				<?php
-					require_once("rsslib.php");
-					$url = "http://www.scriptol.com/rss.xml";
-					echo RSS_Display($url, 8, false, true);
-				?>
-
+			<?php
+				$cachename = "rss-cache-tmp.php";
+				$url = "http://www.lemondeinformatique.fr/flux-rss/thematique/logiciel/rss.xml"; 
+				if(file_exists($cachename))
+				{
+					  $now = date("G");
+					  $time = date("G", filemtime($cachename));
+					  if($time == $now)
+				  {
+					 include($cachename);
+					 exit();
+				  }
+				}
+			require_once("rsslib.php");
+			$cache = RSS_Display($url, 10, false, true);
+			file_put_contents($cachename, $cache);
+			echo $cache;
+			?>
 
 			</div>
 		</td>
