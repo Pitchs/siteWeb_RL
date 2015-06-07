@@ -73,11 +73,11 @@
 				  }
 				}
 			require_once("rsslib.php");
-			$cache = RSS_Display($url, 10, false, true);
+			$cache = RSS_Display($url, 7, false, true);
 			file_put_contents($cachename, $cache);
 			echo $cache;
 			?>
-
+			
 			</div>
 		</td>
 	</body> 
