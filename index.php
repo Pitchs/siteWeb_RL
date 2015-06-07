@@ -5,7 +5,7 @@
 			<meta http-equiv="Content-Type" content="text/html;CHARSET=utf-8" />
 			<meta name="title" content="PorteFolio" />
 			<meta name="description" content="description de la page" />
-			<link rel='stylesheet' href='css\monCss.css' type='text/css' />	
+			<link rel='stylesheet' href='css/monCss.css' type='text/css' />	
 			<meta name="keywords" content="Romain Ledru, romain ledru, dévellopeurs nantes/">
 	<head>
 	
