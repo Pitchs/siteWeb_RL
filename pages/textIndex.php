@@ -1,5 +1,4 @@
 
-<title>Acceuil</title>
 <img src=images/moi.png width=130></img>
 <p>
  Bienvenue sur la page de mon portfolio !
@@ -10,5 +9,4 @@ Ce portfolio a été mis en place pour vous présenter un aperçu de mes compét
 Sur cet espace personnalisé vous pourrez retrouver l’intégral des travaux réalisés au cours des années.</br>
 Mes connaissances personnelles seront également présentées afin de vous proposer un éventail plus large de mes connaissances.
 Des liens vers des dossiers téléchargeables seront également mis à disposition.</br>
-Bonne visite !
 </p>
