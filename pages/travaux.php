@@ -6,25 +6,25 @@
     </div>
     <h3>IMC 01</h3>
     <div>
-	<p> Début d'un projet android avec éclipse, prise en main</p>
+	<p> Début d'un projet android avec éclipse, prise en main.</p>
 		<object type="application/pdf" name="PDF4" id="PDF" width="100%" height="800px" data="ressources/IMC01.pdf">
 		</object> 
     </div>
     <h3>IMC 02</h3>
     <div>
-	<p>Suite du projet android avec éclipse, créer une nouvelle activité</p>
+	<p>Suite du projet android avec éclipse, créer une nouvelle activité.</p>
 		<object type="application/pdf" name="PDF4" id="PDF" width="100%" height="800px" data="ressources/IMC02.pdf">
 		</object> 
 	</div>
     <h3>IMC 04</h3>
     <div>
-	<p>Suite du projet android avec éclipse, traduire son application en anglais</p>
+	<p>Suite du projet android avec éclipse, traduire son application en anglais.</p>
      <object type="application/pdf" name="PDF4" id="PDF" width="100%" height="800px" data="ressources/IMC04.pdf">
 		</object> 
     </div>
 	 <h3>IMC produit</h3>
     <div>
-	<p>Résultat de mon projet</p>
+	<p>Résultat de mon projet.</p>
 
                 <img src="images/formulaire_menu_français.png" width="280px" height="550px">      
 
@@ -40,7 +40,7 @@
     </div>
 	<h3>Musicatout</h3>
 	<div>
-	<p>Projet en équipe de l'analyse du SI à la conception de formulaires manipulants les données de la base.</p>
+	<p>Projet en équipe de l'analyse du SI à la conception de la base et de formulaires manipulants ses données.</p>
 	
      <object type="application/pdf" name="PDF4" id="PDF" width="100%" height="800px" data="ressources/eq1-mission1-cdc-15-09-2014-v1.pdf">
 		</object>
@@ -60,10 +60,54 @@
 	</div>
 	<h3>Musicatout productions</h3>
 	<div>
-	<p>Résultat du projet</p>
+	<p>Travaux de groupes.</p>
 		<object type="application/pdf" name="PDF4" id="PDF" width="100%" height="800px" data="ressources/DocTechniqueMusicatou.pdf">
 		</object> 
+		<p>Formulaire en dévellopement</p>
 		<img border="0" src="images/imhMusicAtout.png" width="870" height="auto">   
         
+	</div>
+	
+	<h3>GSB 1</h3>
+	<div>
+	<p>Projet en équipe de l'analyse du SI à la conception de la base.</p>
+	<object type="application/pdf" name="PDF4" id="PDF" width="100%" height="800px" data="ressources/eq1-contexte-GSB1-25-09-2014-v1.pdf">
+		</object>   
+	<object type="application/pdf" name="PDF4" id="PDF" width="100%" height="800px" data="ressources/eq1-cahierdescharges-GSB1-25-09-2014-v1.pdf">
+			</object>    		
+	</div>
+	
+	<h3>GSB production</h3>
+	<div>
+	<p> Documents produits par le groupe.</p>
+	<object type="application/pdf" name="PDF4" id="PDF" width="100%" height="800px" data="ressources/eq1-dochtech-spetech-25-09-2014-v1.pdf">
+		</object>  
+	<object type="application/pdf" name="PDF4" id="PDF" width="100%" height="800px" data="ressources/eq1-docfon-spefon-GSB1-09-09-2014-v1.pdf">
+			</object>   
+			<table>
+			<tr>
+				<th>
+					<p>Formulaire à dévelloper gestion des médicaments.</p>
+					<img border="0" src="images/ihm_GSB1_allMed.png" width="auto" height="auto"> </br>
+					
+				</th>
+				</tr>
+				<tr>
+				
+				<th>
+					<p>Formulaire à dévelloper gestion d'un médicament.</p>
+					<img border="0" src="images/IHM_GSB1.png" width="auto" height="auto">	</br>
+					
+				</th>
+				</tr>
+			</table>
+			
+			
+		
+		
+			
+			
+
+
 	</div>
   </div>
