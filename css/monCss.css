@@ -8,7 +8,7 @@ font: inherit;
 vertical-align: baseline;
 text-decoration :none;
 font-family:Helvetica,Arial,sans-serif;
-	text-align: center;
+text-align: center;
 }
 
 body,html{height:100%; width:100%;}
@@ -74,7 +74,7 @@ img{
 	text-align: center; /* centrer le texte */		
 	background: #606060;
 	height:7%;
-	
+	z-index: 1;
 	
 	
  }
@@ -95,6 +95,13 @@ img{
 
  }
  
+ #tabs{
+
+overflow:hidden; 
+
+ 
+ }
+ 
  .nav
  {
  	color: white;
@@ -112,10 +119,11 @@ img{
 
 .tabl{
 
-
+z-index: 2;
 margin-top:3%;
 padding:20px;
 overflow:hidden;
+max-height:2600px;
 
 	
 	}
@@ -135,6 +143,8 @@ padding:10px;
 	padding:10px;
 	margin-left:;
 	min-height:250px;
+	max-height:2600px;
+
 
 
 	
@@ -168,6 +178,8 @@ padding:10px;
 	-moz-box-shadow:2px 2px 10px black;
 	-webkit-box-shadow:2px 2px 10px black;
 	}
+	
+
 	
 
 
