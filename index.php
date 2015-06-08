@@ -41,6 +41,7 @@
 					<a class='nav' href="index.php?page=infoBts">BTS sio</a>
 					<a class='nav' href="index.php?page=cv">CV</a>
 					<a class='nav' href="index.php?page=stages">Stages</a>
+					<a class='nav' href="index.php?page=travaux">Travaux,PPE</a>
 					<a class='nav' href="index.php?page=veille">Veille</a>
 					<a class='nav' href="index.php?page=contact">Contact</a>
 					
@@ -69,6 +70,8 @@
 				case 'cv': include('pages/cv.php');
 				break;
 				case 'stages': include('pages/stages.php');
+				break;
+				case 'travaux': include('pages/travaux.php');
 				break;
 				case 'veille': include('pages/veille.php');;
 				break;
