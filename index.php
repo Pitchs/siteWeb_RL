@@ -40,7 +40,7 @@
 					<a class='nav' href="index.php?page=index">Home</a>									
 					<a class='nav' href="index.php?page=infoBts">BTS sio</a>
 					<a class='nav' href="index.php?page=cv">CV</a>
-					<a class='nav' href="index.php?page=travaux">Travaux et réalisations</a>
+					<a class='nav' href="index.php?page=stages">Stages</a>
 					<a class='nav' href="index.php?page=veille">Veille</a>
 					<a class='nav' href="index.php?page=contact">Contact</a>
 					
@@ -68,7 +68,7 @@
 				break;
 				case 'cv': include('pages/cv.php');
 				break;
-				case 'travaux': include('pages/travaux.php');
+				case 'stages': include('pages/stages.php');
 				break;
 				case 'veille': include('pages/veille.php');;
 				break;
@@ -98,7 +98,7 @@
 				  }
 				}
 			require_once("rsslib.php");
-			$cache = RSS_Display($url, 7, false, true);
+			$cache = RSS_Display($url, 5, false, true);
 			file_put_contents($cachename, $cache);
 			echo $cache;
 			?>
