@@ -41,16 +41,28 @@
 	<h3>Musicatout</h3>
 	<div>
 	<p>Projet en équipe de l'analyse du SI à la conception de formulaires manipulants les données de la base.</p>
+	
      <object type="application/pdf" name="PDF4" id="PDF" width="100%" height="800px" data="ressources/eq1-mission1-cdc-15-09-2014-v1.pdf">
-		</object> 
+		</object>
+		
 		<object type="application/pdf" name="PDF4" id="PDF" width="100%" height="800px" data="ressources/eq1-mission2-cdc-15-09-2014-v1.pdf">
 		</object> 
+		
+		<object type="application/pdf" name="PDF4" id="PDF" width="100%" height="800px" data="ressources/eq1-implementationSQL-spefon-15-09-2014-v1.pdf">
+		</object> 
+		
+		<object type="application/pdf" name="PDF4" id="PDF" width="100%" height="800px" data="ressources/eq1-mappingrelationnel-spefon-15-09-2014-v1.pdf">
+		</object> 
+		
+		<object type="application/pdf" name="PDF4" id="PDF" width="100%" height="800px" data="ressources/eq1-prescahierdescharges-spefon-15-09-2014-v1.pdf">
+		</object> 
+		
 	</div>
 	<h3>Musicatout productions</h3>
 	<div>
 	<p>Résultat du projet</p>
-		<img src="images/MusicAtout.mcd.png" width="430px" height="400">      
-        <img border="0" src="images/MusicAtout.mlr.png" width="430px" height="400">    
+		<object type="application/pdf" name="PDF4" id="PDF" width="100%" height="800px" data="ressources/DocTechniqueMusicatou.pdf">
+		</object> 
 		<img border="0" src="images/imhMusicAtout.png" width="870" height="auto">   
         
 	</div>
