@@ -8,6 +8,13 @@
 			<link rel='stylesheet' href='css/monCss.css' type='text/css' />	
 			<meta name="keywords" content="Romain Ledru,romain ledru,dévellopeurs nantes,romain ledru porte folio/">
 			<title>Site personel Romain Ledru</title>
+			
+			<script type="text/javascript">
+				PDF.SetShowToolBar("true"); //--- barre d'outils true(visible) false(non visible) ---//
+				PDF.SetShowScrollbar("true"); //--- barre de scroll true(visible) false(non visible) ---//
+				PDF.SetPageMode("none"); //--- cache les signets ---//
+				PDF.setZoom(80%); //--- Zoom le document à 80% ---//
+			</script>
 	<head>
 	
 	<body>
