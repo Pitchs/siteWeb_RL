@@ -830,8 +830,10 @@ body .ui-tooltip {
 /* Component containers
 ----------------------------------*/
 .ui-widget {
-	font-family: Trebuchet MS,Tahoma,Verdana,Arial,sans-serif;
-	font-size: 1.1em;
+font-family:Helvetica,Arial,sans-serif;
+font-size: 100%;
+	/*font-family: Trebuchet MS,Tahoma,Verdana,Arial,sans-serif;
+	font-size: 1.1em;*/
 }
 .ui-widget .ui-widget {
 	font-size: 1em;
