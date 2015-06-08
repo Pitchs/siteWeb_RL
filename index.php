@@ -15,6 +15,23 @@
 				PDF.SetPageMode("none"); //--- cache les signets ---//
 				PDF.setZoom(80%); //--- Zoom le document à 80% ---//
 			</script>
+<link rel="stylesheet" href="//code.jquery.com/ui/1.11.4/themes/smoothness/jquery-ui.css">
+  <script src="//code.jquery.com/jquery-1.10.2.js"></script>
+  <script src="//code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
+
+  <script>
+  $(function() {
+    var tabs = $( "#tabs" ).tabs();
+    tabs.find( ".ui-tabs-nav" ).sortable({
+      axis: "x",
+      stop: function() {
+        tabs.tabs( "refresh" );
+      }
+    });
+  });
+  </script>
+			
+
 	<head>
 	
 	<body>
