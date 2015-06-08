@@ -6,7 +6,8 @@
 			<meta name="title" content="PorteFolio" />
 			<meta name="description" content="description de la page" />
 			<link rel='stylesheet' href='css/monCss.css' type='text/css' />	
-			<meta name="keywords" content="Romain Ledru, romain ledru, dévellopeurs nantes/">
+			<meta name="keywords" content="Romain Ledru,romain ledru,dévellopeurs nantes,romain ledru porte folio/">
+			<title>Site personel Romain Ledru</title>
 	<head>
 	
 	<body>
@@ -61,7 +62,7 @@
 			
 			<?php
 				$cachename = "rss-cache-tmp.php";
-				$url = "http://www.lemondeinformatique.fr/flux-rss/thematique/logiciel/rss.xml"; 
+				$url = "http://www.scriptol.fr/rss.xml"; 
 				if(file_exists($cachename))
 				{
 					  $now = date("G");

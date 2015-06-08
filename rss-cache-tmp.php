@@ -15,4 +15,3 @@
 <li><a href="http://www.scriptol.fr/html5/formulaire.php">Tous les objets de formulaire en HTML 5</a><br>HTML 5 permet de réaliser des interfaces utilisateurs complètes grâce à un ensemble de widgets plus étendus, objets de formulaire et éléments interactifs. La prévisualisation permet de vérifier directement la compatibilité avec chaque navigateur</li>
 </ul>
 
-
