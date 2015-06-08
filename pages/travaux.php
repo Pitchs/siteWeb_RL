@@ -71,7 +71,7 @@
 	<h3>GSB 1</h3>
 	<div>
 	<p>Projet en équipe de l'analyse du SI à la conception de la base.</p>
-	<object type="application/pdf" name="PDF4" id="PDF" width="100%" height="800px" data="ressources/eq1-contexte-GSB1-25-09-2014-v1.pdf">
+	<object type="application/pdf" name="PDF8" id="PDF" width="100%" height="800px" data="ressources/eq1-contexte-GSB1-25-09-2014-v1.pdf">
 		</object>   
 	<object type="application/pdf" name="PDF4" id="PDF" width="100%" height="800px" data="ressources/eq1-cahierdescharges-GSB1-25-09-2014-v1.pdf">
 			</object>    		
@@ -80,9 +80,9 @@
 	<h3>GSB production</h3>
 	<div>
 	<p> Documents produits par le groupe.</p>
-	<object type="application/pdf" name="PDF4" id="PDF" width="100%" height="800px" data="ressources/eq1-dochtech-spetech-25-09-2014-v1.pdf">
+	<object type="application/pdf" name="PDF9" id="PDF" width="100%" height="800px" data="ressources/eq1-spefon-GSB.pdf">
 		</object>  
-	<object type="application/pdf" name="PDF4" id="PDF" width="100%" height="800px" data="ressources/eq1-docfon-spefon-GSB1-09-09-2014-v1.pdf">
+	<object type="application/pdf" name="PDF9" id="PDF" width="100%" height="800px" data="ressources/eq1-docfon-spefon-GSB.pdf">
 			</object>   
 			<table>
 			<tr>
@@ -101,13 +101,6 @@
 				</th>
 				</tr>
 			</table>
-			
-			
-		
-		
-			
-			
-
 
 	</div>
   </div>
