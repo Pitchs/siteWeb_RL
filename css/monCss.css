@@ -96,11 +96,8 @@ img{
  }
  
  #tabs{
-
-overflow:hidden; 
-
- 
  }
+ 
  
  .nav
  {
@@ -119,11 +116,12 @@ overflow:hidden;
 
 .tabl{
 
+border-spacing : 20px;
 z-index: 2;
 margin-top:3%;
 padding:20px;
 overflow:hidden;
-max-height:2600px;
+max-height:auto;
 
 	
 	}
@@ -131,23 +129,19 @@ max-height:2600px;
 .pGauche{
 	width:78%;
 	
+		/* arrondie */
+	-moz-border-radius:7px;
+	-webkit-border-radius:7px;
+	border-radius:7px;
+	/* ombre */
+	border:1px solid gray;
+	box-shadow:2px 2px 10px black; 
+	-moz-box-shadow:2px 2px 10px black;
+	-webkit-box-shadow:2px 2px 10px black;
+
 }
 .pDroite{
-width: auto;
-padding:10px;
-}
-.container
-{
-	/* dimension */
-	width:;
-	padding:10px;
-	margin-left:;
-	min-height:250px;
-	max-height:2600px;
-
-
-
-	
+	width:auto;
 	/* arrondie */
 	-moz-border-radius:7px;
 	-webkit-border-radius:7px;
@@ -157,6 +151,16 @@ padding:10px;
 	box-shadow:2px 2px 10px black; 
 	-moz-box-shadow:2px 2px 10px black;
 	-webkit-box-shadow:2px 2px 10px black;
+
+}
+.container
+{
+	/* dimension */
+	padding : 10px;
+
+
+	min-height:250px;
+	
 	}
 	
 	.contRss
@@ -164,19 +168,10 @@ padding:10px;
 	/* dimension */
 	width:;
 
-
 	min-height:250px;;
 
 	
-	/* arrondie */
-	-moz-border-radius:7px;
-	-webkit-border-radius:7px;
-	border-radius:7px;
-	/* ombre */
-	border:1px solid gray;
-	box-shadow:2px 2px 10px black; 
-	-moz-box-shadow:2px 2px 10px black;
-	-webkit-box-shadow:2px 2px 10px black;
+
 	}
 	
 
