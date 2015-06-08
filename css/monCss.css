@@ -116,7 +116,7 @@ img{
 
 .tabl{
 
-border-spacing : 20px;
+border-spacing : 15px;
 z-index: 2;
 margin-top:3%;
 padding:20px;
@@ -142,6 +142,7 @@ max-height:auto;
 }
 .pDroite{
 	width:auto;
+	
 	/* arrondie */
 	-moz-border-radius:7px;
 	-webkit-border-radius:7px;
@@ -157,8 +158,6 @@ max-height:auto;
 {
 	/* dimension */
 	padding : 10px;
-
-
 	min-height:250px;
 	
 	}
@@ -166,14 +165,16 @@ max-height:auto;
 	.contRss
 {
 	/* dimension */
-	width:;
-
 	min-height:250px;;
-
-	
 
 	}
 	
+.ui-accordion-content{
+
+
+}
+
+
 
 	
 
