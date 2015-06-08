@@ -8,8 +8,8 @@
 
   <div id="tabs-1">
 	 <p>
-		Pour ma première année de stage,durant cinqs semaines, j'ai travaillé au magasin Vallet Informatique afin de refaire entièrement leur site web qui avait subi des attaques.
-		Les employés de la boutique n'ayant pas de compétence en développements, il a fallu que je mène le projet seul, et que je leurs fournisse au terme de mon stage des modes opératoires afin de pouvoir modifier, ré-uploader leur site à leurs convenances.
+		Pour ma première année de stage, durant cinq semaines, j'ai travaillé au magasin Vallet Informatique afin de refaire entièrement leur site web qui avait subi des attaques.
+		Les employés de la boutique n'ayant pas de compétence en développements, il a fallu que je mène le projet seul, et que je leurs fournisse au terme de mon stage des modes opératoires afin de leur permettre de modifier, ré-uploader leur site à leurs convenances.
 	</p>
 	<a class="nav" href="http://www.vallet-informatique.com/index.html" target="_blank" >Liens vers le site Vallet Informatique</a></br>
 	</br>
@@ -20,7 +20,7 @@
   </div>
   <div id="tabs-2">
 		<p>
-			Ma deuxième année de stage à eu lieu au CNAM où j'avais pour projet de développer une maquette afin de leur fournir une base de réflexion pour un projet à venir.</br>
+			Ma deuxième année de stage a eu lieu au CNAM où j'avais pour projet de développer une maquette afin de leur fournir une base de réflexion pour un projet à venir.</br>
 			<h2>Bilan de stage:</h2>
 		</p>
 		
