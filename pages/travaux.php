@@ -1,12 +1,15 @@
-﻿<div id="tabs">
+﻿   <p>
+		Durant ma Formation j'ai dû effectuer deux stages en entreprise.
+		</p>
+<div id="tabs">
   <ul>
     <li><a href="#tabs-1">Stage première année</a></li>
     <li><a href="#tabs-2">Stage deuxième année</a></li>
   </ul>
+
   <div id="tabs-1">
-	  <p>
-		Durant ma Formation j'ai dû effectuer deux stages en entreprise.
-		Pour ma première année de stage, j'ai travaillé au magasin Vallet Informatique afin de refaire entièrement leur site web qui avait subi des attaques.
+	 <p>
+		Pour ma première année de stage,durant cinqs semaines, j'ai travaillé au magasin Vallet Informatique afin de refaire entièrement leur site web qui avait subi des attaques.
 		Les employés de la boutique n'ayant pas de compétence en développements, il a fallu que je mène le projet seul, et que je leurs fournisse au terme de mon stage des modes opératoires afin de pouvoir modifier, ré-uploader leur site à leurs convenances.
 	</p>
 	<a class="nav" href="http://www.vallet-informatique.com/index.html" target="_blank" >Liens vers le site Vallet Informatique</a></br>
