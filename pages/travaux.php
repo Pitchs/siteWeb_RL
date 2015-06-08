@@ -1,6 +1,9 @@
-﻿<h2 class="docs">Travaux réalisés en PPE.</h2>
- 
+﻿ 
   <div id="accordion">
+	<h3>Présentation</h3>
+    <div height="200px">
+	<p>Projets réalisés en ppe (projet personnel encadré) </p>
+    </div>
     <h3>IMC 01</h3>
     <div>
 	<p> Début d'un projet android avec éclipse, prise en main</p>
@@ -35,4 +38,20 @@
   
  					
     </div>
+	<h3>Musicatout</h3>
+	<div>
+	<p>Projet en équipe de l'analyse du SI à la conception de formulaires manipulants les données de la base.</p>
+     <object type="application/pdf" name="PDF4" id="PDF" width="100%" height="800px" data="ressources/eq1-mission1-cdc-15-09-2014-v1.pdf">
+		</object> 
+		<object type="application/pdf" name="PDF4" id="PDF" width="100%" height="800px" data="ressources/eq1-mission2-cdc-15-09-2014-v1.pdf">
+		</object> 
+	</div>
+	<h3>Musicatout productions</h3>
+	<div>
+	<p>Résultat du projet</p>
+		<img src="images/MusicAtout.mcd.png" width="430px" height="400">      
+        <img border="0" src="images/MusicAtout.mlr.png" width="430px" height="400">    
+		<img border="0" src="images/imhMusicAtout.png" width="870" height="auto">   
+        
+	</div>
   </div>
