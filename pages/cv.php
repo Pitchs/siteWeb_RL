@@ -1,4 +1,4 @@
-
+<p>Curriculum vitae</p>
 <h2>Formation:</h2>
 <p>
 2013-2014 Actuellement en 1ère année de BTS SIO option.</br>

@@ -1,4 +1,3 @@
-
 <p>
 Anciennement BTS Informatique de gestion, le BTS Services informatiques aux organisation le remplace depuis la rentré 2011</p>
 <h2>1) Pourquoi un tel changement ?</h2>
