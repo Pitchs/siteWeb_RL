@@ -1,5 +1,4 @@
-﻿   <p>	Durant ma formation j'ai dû effectuer deux stages en entreprise.</p>
-		
+﻿   <p>	Durant ma formation j'ai dû effectuer deux stages en entreprise.</p>	
 <div id="tabs">
   <ul>
     <li><a href="#tabs-1">Stage première année</a></li>
