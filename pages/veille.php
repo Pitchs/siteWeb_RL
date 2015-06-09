@@ -23,8 +23,10 @@ Avant-propos:</br>
 </br>
 Découverte matériel et attente de l'odinateur quantique</br>
 <a href="http://www.rtflash.fr/l-ordinateur-quantique-va-revolutionner-l-informatique/article" target="_blank" >Résumer découverte quantique</a></br>
+<a href="http://www.rtflash.fr/nouveau-pas-vers-l-ordinateur-quantique-2/article" target="_blank" >Découverte quantique(atomique)</a></br>
 <a href="http://www.generation-nt.com/transistor-atome-unique-proceseur-ordinateur-quantique-actualite-1544591.html" target="_blank" >Processeur quantique</a></br>
 <a href="http://www.sciences-mag.fr/2013/09/nouvelle-matiere-proprietes-sabre-laser/" target="_blank" >Nouvel matère</a></br>
+
 </br>
 Découverte quantique</br>
 <a href="http://www.lapresse.ca/sciences/decouvertes/201409/21/01-4802221-premiere-teleportation-quantique-sur-une-distance-de-25-km.php" target="_blank" >téléportation quantique</a></br>
