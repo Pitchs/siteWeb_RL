@@ -7,6 +7,7 @@
 			<meta name="description" content="description de la page" />
 			<link rel='stylesheet' href='css/monCss.css' type='text/css' />	
 			<meta name="keywords" content="Romain Ledru,romain ledru,dévellopeurs nantes,romain ledru porte folio/">
+			<meta name="description" content="Romain Ledru portefolio bts sio option slam">
 			<title>Site personel Romain Ledru</title>
 			
 			<script type="text/javascript">
@@ -33,6 +34,7 @@
 					<a class='nav' href="index.php?page=stages">Stages</a>
 					<a class='nav' href="index.php?page=travaux">Travaux,PPE</a>
 					<a class='nav' href="index.php?page=veille">Veille</a>
+					<a class='nav' href="index.php?page=comp">Compétences</a>	
 					<a class='nav' href="index.php?page=contact">Contact</a>
 				</ul>
 					
@@ -66,6 +68,8 @@
 				case 'veille': include('pages/veille.php');;
 				break;
 				case 'contact': include('pages/contact.php');
+				break; 
+				case 'comp': include('pages/comp.php');
 				break; 
 				default : include('pages/textIndex.php');
 				break;
