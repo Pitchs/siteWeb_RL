@@ -1,4 +1,4 @@
-﻿ 
+﻿
   <div id="accordion">
 	<h3>Présentation</h3>
     <div height="200px">
@@ -6,19 +6,19 @@
     </div>
     <h3>IMC 01</h3>
     <div>
-	<p> Début d'un projet android avec éclipse, prise en main.</p>
+	<p> Début d'un projet androïde avec éclipse, prise en main.</p>
 		<object type="application/pdf" name="PDF4" id="PDF" width="100%" height="800px" data="ressources/IMC01.pdf">
 		</object> 
     </div>
     <h3>IMC 02</h3>
     <div>
-	<p>Suite du projet android avec éclipse, créer une nouvelle activité.</p>
+	<p>Suite du projet androïde avec éclipse, créer une nouvelle activité.</p>
 		<object type="application/pdf" name="PDF4" id="PDF" width="100%" height="800px" data="ressources/IMC02.pdf">
 		</object> 
 	</div>
     <h3>IMC 04</h3>
     <div>
-	<p>Suite du projet android avec éclipse, traduire son application en anglais.</p>
+	<p>Suite du projet androïde avec éclipse, traduire son application en anglais.</p>
      <object type="application/pdf" name="PDF4" id="PDF" width="100%" height="800px" data="ressources/IMC04.pdf">
 		</object> 
     </div>
@@ -40,7 +40,7 @@
     </div>
 	<h3>Musicatout</h3>
 	<div>
-	<p>Projet en équipe de l'analyse du SI à la conception de la base et de formulaires manipulants ses données.</p>
+	<p>Projet en équipe de l'analyse du SI à la conception de la base et de formulaires manipulant ses données.</p>
 	
      <object type="application/pdf" name="PDF4" id="PDF" width="100%" height="800px" data="ressources/eq1-mission1-cdc-15-09-2014-v1.pdf">
 		</object>
@@ -63,7 +63,7 @@
 	<p>Travaux de groupes.</p>
 		<object type="application/pdf" name="PDF4" id="PDF" width="100%" height="800px" data="ressources/DocTechniqueMusicatou.pdf">
 		</object> 
-		<p>Formulaire en dévellopement</p>
+		<p>Formulaire en développement</p>
 		<img border="0" src="images/imhMusicAtout.png" width="870" height="auto">   
         
 	</div>
@@ -87,7 +87,7 @@
 			<table>
 			<tr>
 				<th>
-					<p>Formulaire à dévelloper gestion des médicaments.</p>
+					<p>Formulaire à développer gestion des médicaments.</p>
 					<img border="0" src="images/ihm_GSB1_allMed.png" width="auto" height="auto"> </br>
 					
 				</th>
